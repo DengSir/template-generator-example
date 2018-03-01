@@ -1,6 +1,5 @@
-#!/usr/bin/env node
 /**
- * @File   : {__name__}.js
+ * @File   : {__name__}.ts
  * @Author : {__author__} ({__email__})
  * @Link   : {__link__}
  * @Date   : {__date__}
